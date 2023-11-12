@@ -1,3 +1,5 @@
-altair
-pandas
+transformers
 streamlit
+tensorflow
+sentencepiece
+sacremoses
